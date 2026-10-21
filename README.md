@@ -2,6 +2,7 @@
 
 U.S. Marine Corps veteran (10 years, Motor Transport Supervisor and Team Lead) transitioning into cybersecurity. I'm working toward an entry-level SOC analyst, junior security, or IT help desk role.
 
+- Studying cybersecurity at Atlanta Metropolitan State College
 - Studying for CompTIA Security+
 - Learning Linux (Linux Mint and Tails) and Java
 - Practicing hands-on with Hack The Box and TryHackMe
