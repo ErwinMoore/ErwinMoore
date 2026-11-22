@@ -20,6 +20,7 @@ U.S. Marine Corps veteran (10 years, Motor Transport Supervisor and Team Lead) t
 | --- | --- | --- |
 | Hack The Box Starting Point | Meow | Enumeration with Nmap, Telnet, weak credentials |
 | Hack The Box Starting Point | Fawn | Enumeration with Nmap, FTP, anonymous login |
+| TryHackMe | Offensive Security Intro | Web directory brute-force, hidden pages, beginner offensive security |
 
 ## Connect
 
